@@ -12,3 +12,9 @@ base/migrations/0003_user_avatar.py
 #vscode 
 .vscode/
 
+myenv/
+venv/
+__pycache__/
+*.pyc
+db.sqlite3
+media/
